@@ -39,7 +39,7 @@ To run the Jupyter Notebook locally:
 Clone the repository:
 
 Bash
-git clone https://github.com/YOUR-USERNAME/pakistan-suicide-attacks-eda.git
+git clone https://github.com/Minahil-CS/pakistan-suicide-attacks-data-analysis.git
 Navigate to the project directory:
 
 Bash
